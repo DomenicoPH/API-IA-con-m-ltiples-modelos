@@ -38,4 +38,4 @@ const server = Bun.serve({
     }
 })
 
-console.log(`Server is running on ${server.url}:${server.port}`)
+console.log(`Server is running on ${server.url}`)

@@ -23,4 +23,4 @@ This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) 
 
     curl -X POST http://localhost:3000/chat \
   -H "Content-Type: application/json" \
-  -d '{"messages":[{"role":"user","content":"Resuelve Fibonacci en JavaScript"}]}'
+  -d '{"messages":[{"role":"user","content":"consulta aquí"}]}'
